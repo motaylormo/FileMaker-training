@@ -1,0 +1,5 @@
+Admin:
+Username: admin
+Password: password
+
+The staffer accounts have no passwords.

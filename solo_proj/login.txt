@@ -1,0 +1,5 @@
+Admin:
+Username: admin
+Password: pass
+
+The player accounts have no passwords, just the names, which are the ones you see listed on the open screen.
